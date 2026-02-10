@@ -353,4 +353,5 @@ OpenAI (2024). GPT-4o Technical Report.
 Goodfellow, I., et al. (2014). Generative Adversarial Networks.
 
 # Result:
+Generative AI represents a paradigm shift in artificial intelligence. Transformer-based architectures enable powerful generative models capable of understanding and creating human-like content. With scaling, LLMs exhibit emergent intelligence, transforming industries—but also raising important ethical, computational, and societal challeng
 
